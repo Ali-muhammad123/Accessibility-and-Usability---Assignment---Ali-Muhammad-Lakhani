@@ -72,6 +72,8 @@ label {
     display: block;
 }
 
+* {box-sizing: border-box;}
+
 input,
 select,
 textarea {
