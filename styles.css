@@ -54,6 +54,9 @@ img {
     max-width: 100%;
     height: auto;}
 
+.cars {display: grid; grid-template-columns:1fr 1fr;  column-gap: 50px;
+row-gap: 40px;}
+
 table {
     border-collapse: collapse;
 }
