@@ -115,3 +115,6 @@ footer {
     }
 
 th {background:#501566;  padding: 10px;  color: white;}
+
+@media (max-width: 786px) {main {margin: 10px; padding: 15px;}
+.cars { grid-template-columns: 1fr;} }
