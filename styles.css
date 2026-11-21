@@ -121,3 +121,6 @@ th {background:#501566;  padding: 10px;  color: white;}
 
 label[for= "updates"] {display: inline;}
 input[type="checkbox"] {width: auto;  display: inline;}
+
+fieldset {width: fit-content;}
+button {margin-top: 10px;}
