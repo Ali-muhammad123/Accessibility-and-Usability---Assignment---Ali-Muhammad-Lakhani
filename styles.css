@@ -86,6 +86,7 @@ textarea {
 
 textarea {
     height: 100px;
+    resize: vertical;
 }
 
 button {
