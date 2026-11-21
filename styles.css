@@ -44,9 +44,9 @@ nav a {
 }
 
 main {
-    width: 900px;
-    margin: 20px auto;
-    padding: 20px;
+    width:auto;
+    margin: 15px 60px;
+    padding: 30px;
     background: white;
 }
 
