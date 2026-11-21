@@ -104,7 +104,12 @@ button {
 }
 
 footer {
-    width: 900px;
-    margin: auto;
-    font-size: 12px;
-}
+    width: 100%;
+    max-width: 900px;
+    margin: 0 auto;
+    box-sizing: border-box;
+    font-size: 18px;
+    color:black;
+    font-weight: bold;
+     text-align: center;
+    }
