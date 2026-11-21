@@ -93,6 +93,9 @@ textarea:focus-visible, input:focus-visible, select:focus-visible, button:focus-
 {outline: 1.5px solid #f8b226; outline-offset: 1.5px;}
 a:focus-visible {outline: 1.5px solid #f8b226; outline-offset: 1.5px;}
 
+input[type="checkbox"], input[type="radio"] 
+{width: auto;}
+
 button {
     background: #14365d;
     color: white;
