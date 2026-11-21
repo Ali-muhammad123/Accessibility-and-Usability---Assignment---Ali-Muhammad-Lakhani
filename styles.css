@@ -113,3 +113,5 @@ footer {
     font-weight: bold;
      text-align: center;
     }
+
+th {background:#501566;  padding: 10px;  color: white;}
