@@ -69,10 +69,15 @@
        <fieldset>
             <legend>Preferred contact method *</legend>
             <div>
-                <input type="radio" name="contact" value="email"> Email
-                <input type="radio" name="contact" value="phone"> Phone
+               <label for="contact-email"> <input type="radio" id="contact-email"  name="contact-method" value="Email" required>Email
+            </label>
             </div>
-        </div>
+
+            <div>       
+             <label for="contact-phone"> <input type="radio" id="contact-phone" name="contact-method" value="phone" required>Telephone
+                </label>
+            </div>
+            </fieldset>
 
         <button type="submit">SUBMIT</button>
     </form>
